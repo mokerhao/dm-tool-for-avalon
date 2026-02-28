@@ -74,3 +74,64 @@ A minimalist host tool for social deduction board games like Avalon.  Auto role 
 </p>
 
 ---
+---
+
+# 🔊 Voice Feature Requirement 语音功能说明
+
+This app uses Android's built-in Text-to-Speech (TTS) engine for script narration.
+
+Voice guidance will not work if TTS is not enabled or installed.
+
+本应用使用 Android 系统语音合成（TTS）功能进行主持词播报。
+
+若未安装或未启用语音引擎，将无法播放语音。
+
+---
+
+## 📌 For International Users
+
+1. Open **Settings**
+2. Go to **Accessibility**
+3. Tap **Text-to-Speech Output**
+4. Select **Google Text-to-Speech Engine**
+
+---
+
+## 🇨🇳 国内用户设置方法
+
+不同品牌手机路径略有不同，一般位置如下：
+
+1. 打开 **设置**
+2. 进入 **辅助功能 / 无障碍**
+3. 找到 **文字转语音 / 语音输出**
+4. 选择并启用语音引擎
+
+常见路径示例：
+
+- 小米：设置 → 更多设置 → 语言与输入法 → 文字转语音输出
+- 华为：设置 → 辅助功能 → 无障碍 → 文字转语音
+- OPPO / Vivo：设置 → 其他设置 → 无障碍 → 文字转语音
+
+---
+
+## ⚠️ 没有语音怎么办？
+
+如果系统没有可用的语音引擎，可以安装第三方 TTS：
+
+推荐：
+
+- 科大讯飞语音引擎
+- Google 文字转语音（需科学上网）
+- 其他支持中文的 TTS 引擎
+
+安装后记得在系统中设为默认语音引擎。
+
+---
+
+## 🔊 无声音排查
+
+• 确认已设置默认 TTS 引擎  
+• 检查媒体音量  
+• 重启应用  
+
+---
