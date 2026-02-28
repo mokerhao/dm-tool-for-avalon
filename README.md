@@ -1,16 +1,32 @@
-# dm-tool-for-avalon
-A minimalist host tool for social deduction board games like Avalon.  Auto role setup, voice guidance, and immersive BGM control.一款极简的社交推理类桌游DM主持工具，例如 Avalon。具备自动角色设置、语音指导和沉浸式背景音乐控制功能。
+<p align="center">
+  <h1 align="center">DM Tool for Avalon</h1>
+  <p align="center">
+    Minimalist DM Hosting Assistant for Social Deduction Games
+  </p>
+</p>
 
-🎮 支持通过选择参与人数自动匹配阵容和DM主持词  
-🎮 Automatically match roles and DM script based on player count
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Offline-Yes-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ads-No-blue?style=flat-square"/>
+  <img src="https://img.shields.io/github/v/release/mokerhao/dm-tool-for-avalon?style=flat-square"/>
+</p>
 
 ---
 
-## 📥 Download 下载
-
-👉 **[Download Latest APK 最新版本下载](https://github.com/mokerhao/dm-tool-for-avalon/releases/latest)**
+<p align="center">
+Automatically match roles and DM script based on player count.<br/>
+根据参与人数自动匹配阵容与完整主持流程。
+</p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/mokerhao/dm-tool-for-avalon/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20APK-gold?style=for-the-badge"/>
+  </a>
+</p>
+
 ---
 
 # 📱 App Preview 应用预览
@@ -20,118 +36,99 @@ A minimalist host tool for social deduction board games like Avalon.  Auto role 
 ## 🏠 Main Interface 主界面
 
 <p align="center">
-  <img src="assets/Screenshot_20260228-125748.jpg" width="300"/>
+  <img src="assets/Screenshot_20260228-125748.jpg" width="320"/>
 </p>
 
 <p align="center">
-  Clean and immersive dark UI designed for DM hosting.<br/>
-  极简沉浸式深色界面，专为主持流程设计。
+  Clean immersive dark UI designed for DM hosting.<br/>
+  极简沉浸式暗黑界面，专为主持流程打造。
 </p>
-
-<br/>
 
 ---
 
 ## 🎭 Auto Role Configuration 自动阵容匹配
 
 <p align="center">
-  <img src="assets/Screenshot_20260228-125753.jpg" width="300"/>
+  <img src="assets/Screenshot_20260228-125753.jpg" width="320"/>
 </p>
 
 <p align="center">
-  Automatically matches roles based on player count.<br/>
-  根据参与人数自动匹配完整阵容配置。
+  Automatically generates full role setup based on player count.<br/>
+  根据参与人数自动生成完整阵容配置。
 </p>
-
-<br/>
 
 ---
 
 ## 🔊 Script Voice Guidance 主持词语音引导
 
 <p align="center">
-  <img src="assets/Screenshot_20260228-125758.jpg" width="300"/>
+  <img src="assets/Screenshot_20260228-125758.jpg" width="320"/>
 </p>
 
 <p align="center">
-  Built-in voice narration for smooth game flow.<br/>
-  内置语音播报，流程自然顺畅。
+  Built-in narration ensures smooth and immersive game flow.<br/>
+  内置语音播报，让流程自然顺畅。
 </p>
-
-<br/>
 
 ---
 
-## 🎵 BGM Control 背景音乐控制
+## 🎵 Immersive BGM Control 背景音乐控制
 
 <p align="center">
-  <img src="assets/Screenshot_20260228-125804.jpg" width="300"/>
+  <img src="assets/Screenshot_20260228-125804.jpg" width="320"/>
 </p>
 
 <p align="center">
-  Adjustable volume and custom BGM support.<br/>
-  支持音量调节与自定义背景音乐。
+  Adjustable volume and custom BGM import supported.<br/>
+  支持音量调节与自定义背景音乐导入。
 </p>
 
----
 ---
 
 # 🔊 Voice Feature Requirement 语音功能说明
 
-This app uses Android's built-in Text-to-Speech (TTS) engine for script narration.
+This app relies on Android Text-to-Speech (TTS) engine.
 
-Voice guidance will not work if TTS is not enabled or installed.
+Voice guidance requires a TTS engine enabled on your device.
 
-本应用使用 Android 系统语音合成（TTS）功能进行主持词播报。
+本应用依赖 Android 系统语音合成（TTS）功能。
 
-若未安装或未启用语音引擎，将无法播放语音。
+若未启用语音引擎，将无法播放主持词。
 
 ---
 
-## 📌 For International Users
+## 🌍 International Users
 
-1. Open **Settings**
-2. Go to **Accessibility**
-3. Tap **Text-to-Speech Output**
-4. Select **Google Text-to-Speech Engine**
+Settings → Accessibility → Text-to-Speech Output →  
+Select Google Text-to-Speech Engine
 
 ---
 
 ## 🇨🇳 国内用户设置方法
 
-不同品牌手机路径略有不同，一般位置如下：
+设置 → 辅助功能 / 无障碍 → 文字转语音 →  
+选择并启用语音引擎
 
-1. 打开 **设置**
-2. 进入 **辅助功能 / 无障碍**
-3. 找到 **文字转语音 / 语音输出**
-4. 选择并启用语音引擎
+如无语音可用，可安装：
 
-常见路径示例：
-
-- 小米：设置 → 更多设置 → 语言与输入法 → 文字转语音输出
-- 华为：设置 → 辅助功能 → 无障碍 → 文字转语音
-- OPPO / Vivo：设置 → 其他设置 → 无障碍 → 文字转语音
+• 科大讯飞语音引擎  
+• Google 文字转语音  
+• 其他支持中文的 TTS 引擎  
 
 ---
 
-## ⚠️ 没有语音怎么办？
+# 🔒 Privacy
 
-如果系统没有可用的语音引擎，可以安装第三方 TTS：
+• No ads  
+• No network access  
+• No data collection  
 
-推荐：
+无广告 · 无联网 · 不收集任何个人信息  
 
-- 科大讯飞语音引擎
-- Google 文字转语音（需科学上网）
-- 其他支持中文的 TTS 引擎
-
-安装后记得在系统中设为默认语音引擎。
+All data stays on your device.
 
 ---
 
-## 🔊 无声音排查
-
-• 确认已设置默认 TTS 引擎  
-• 检查媒体音量  
-• 重启应用  
-
----
+<p align="center">
+  Designed & Developed by an Independent Developer
+</p>
