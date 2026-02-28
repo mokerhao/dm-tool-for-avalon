@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>DM Tool for Avalon</h1>
+  <h1>DM Tool for Avalon适配阿瓦隆的DM语音工具</h1>
   <p>
     Minimalist DM Hosting Assistant for Social Deduction Games
   </p>
