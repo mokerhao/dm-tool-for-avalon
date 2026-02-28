@@ -21,11 +21,23 @@ Automatically match roles and DM script based on player count.<br/>
 
 ---
 
+---
+
 <p align="center">
   <a href="https://github.com/mokerhao/dm-tool-for-avalon/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest%20APK-gold?style=for-the-badge"/>
+    <strong>
+      <span style="font-size:28px;">⬇ DOWNLOAD LATEST APK ⬇</span>
+    </strong>
   </a>
 </p>
+
+<p align="center">
+  Android · Fully Offline · No Ads  
+  <br/>
+  最新版本下载 · 纯本地运行 · 无广告
+</p>
+
+---
 
 ---
 
