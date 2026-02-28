@@ -207,6 +207,6 @@ Public issues help improve the project faster.
 
 For private inquiries:
 
-Email: bashanmoker [at] gmail.com
+Email: bashanmoker&nbsp;[at]&nbsp;gmail&nbsp;[dot]&nbsp;com
 
 如需私下联系，可发送邮件。
