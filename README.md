@@ -164,6 +164,22 @@ No data collection
 无广告 · 无联网 · 不收集任何信息  
 
 <br/>
+---
+
+## © Disclaimer
+
+DM Tool for Avalon is an independent fan-made project.
+
+This app is not affiliated with, endorsed by, or associated with 
+Indie Boards & Cards or the creators of *The Resistance: Avalon*.
+
+All trademarks and game names belong to their respective owners.
+
+本项目为独立开发的粉丝工具。
+
+本应用与《The Resistance: Avalon》及其版权方无任何关联或官方授权。
+
+相关商标与游戏名称归其原版权所有者所有。
 
 <p align="center">
 Designed & Developed by an Independent Developer BashanMoker
