@@ -1,138 +1,104 @@
 <p align="center">
-  <h1 align="center">DM Tool for Avalon</h1>
-  <p align="center">
-    Minimalist DM Hosting Assistant for Social Deduction Games
-  </p>
+  <h1>DM Tool for Avalon</h1>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Offline-Yes-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Ads-No-blue?style=flat-square"/>
-  <img src="https://img.shields.io/github/v/release/mokerhao/dm-tool-for-avalon?style=flat-square"/>
+  A Minimalist DM Hosting Assistant for Social Deduction Games
 </p>
-
----
-
-<p align="center">
-Automatically match roles and DM script based on player count.<br/>
-根据参与人数自动匹配阵容与完整主持流程。
-</p>
-
----
-
----
-
-<p align="center">
-  <a href="https://github.com/mokerhao/dm-tool-for-avalon/releases/latest">
-    <h2>⬇ Download下载 DM Tool for Avalon ⬇</h2>
-  </a>
-</p>
-
----
-
----
-
-# 📱 App Preview 应用预览
 
 <br/>
 
-## 🏠 Main Interface 主界面
+<p align="center">
+Automatically matches roles and DM script based on player count.
+<br/>
+根据参与人数自动匹配阵容与完整主持流程。
+</p>
+
+<br/><br/>
 
 <p align="center">
-  <img src="assets/Screenshot_20260228-125748.jpg" width="320"/>
+  <a href="https://github.com/mokerhao/dm-tool-for-avalon/releases/latest">
+    <h2>⬇ Download Latest APK</h2>
+  </a>
 </p>
 
 <p align="center">
-  Clean immersive dark UI designed for DM hosting.<br/>
-  极简沉浸式暗黑界面，专为主持流程打造。
+  Android · Fully Offline · No Ads  
+  <br/>
+  纯本地运行 · 无广告 · 无数据收集
 </p>
 
+<br/><br/><br/>
+
 ---
 
-## 🎭 Auto Role Configuration 自动阵容匹配
+# Designed for Immersive Hosting
+
+Minimal dark UI.  
+Smooth voice guidance.  
+Cinematic background atmosphere.
+
+极简暗黑界面。  
+流畅语音播报。  
+沉浸式背景氛围。
+
+<br/>
+
+---
+
+# Preview
+
+<br/>
 
 <p align="center">
-  <img src="assets/Screenshot_20260228-125753.jpg" width="320"/>
+  <img src="assets/Screenshot_20260228-125748.jpg" width="300"/>
 </p>
 
+<br/>
+
 <p align="center">
-  Automatically generates full role setup based on player count.<br/>
-  根据参与人数自动生成完整阵容配置。
+  <img src="assets/Screenshot_20260228-125753.jpg" width="300"/>
 </p>
 
----
-
-## 🔊 Script Voice Guidance 主持词语音引导
+<br/>
 
 <p align="center">
-  <img src="assets/Screenshot_20260228-125758.jpg" width="320"/>
+  <img src="assets/Screenshot_20260228-125758.jpg" width="300"/>
 </p>
 
+<br/>
+
 <p align="center">
-  Built-in narration ensures smooth and immersive game flow.<br/>
-  内置语音播报，让流程自然顺畅。
+  <img src="assets/Screenshot_20260228-125804.jpg" width="300"/>
 </p>
 
+<br/><br/>
+
 ---
 
-## 🎵 Immersive BGM Control 背景音乐控制
+# Voice Requirement
+
+This app relies on Android Text-to-Speech (TTS).
+
+Settings → Accessibility → Text-to-Speech Output
+
+本应用依赖系统语音合成（TTS）功能。  
+请在系统设置中启用语音引擎。
+
+<br/><br/>
+
+---
+
+# Privacy
+
+No ads.  
+No network.  
+No data collection.  
+
+无广告 · 无联网 · 不收集任何信息
+
+<br/>
 
 <p align="center">
-  <img src="assets/Screenshot_20260228-125804.jpg" width="320"/>
-</p>
-
-<p align="center">
-  Adjustable volume and custom BGM import supported.<br/>
-  支持音量调节与自定义背景音乐导入。
-</p>
-
----
-
-# 🔊 Voice Feature Requirement 语音功能说明
-
-This app relies on Android Text-to-Speech (TTS) engine.
-
-Voice guidance requires a TTS engine enabled on your device.
-
-本应用依赖 Android 系统语音合成（TTS）功能。
-
-若未启用语音引擎，将无法播放主持词。
-
----
-
-## 🌍 International Users
-
-Settings → Accessibility → Text-to-Speech Output →  
-Select Google Text-to-Speech Engine
-
----
-
-## 🇨🇳 国内用户设置方法
-
-设置 → 辅助功能 / 无障碍 → 文字转语音 →  
-选择并启用语音引擎
-
-如无语音可用，可安装：
-
-• 科大讯飞语音引擎  
-• Google 文字转语音  
-• 其他支持中文的 TTS 引擎  
-
----
-
-# 🔒 Privacy
-
-• No ads  
-• No network access  
-• No data collection  
-
-无广告 · 无联网 · 不收集任何个人信息  
-
-All data stays on your device.
-
----
-
-<p align="center">
-  Designed & Developed by an Independent Developer
+Designed & Developed by an Independent Developer
 </p>
