@@ -16,7 +16,7 @@ Automatically match roles and DM script based on player count.
 
 <p align="center">
   
-## ⬇ Download Latest APK ⬇
+## ⬇ Download下载 ⬇
 
 </p>
 
