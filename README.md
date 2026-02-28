@@ -15,18 +15,13 @@ Automatically match roles and DM script based on player count.
 <br/>
 
 <p align="center">
-  <a href="https://github.com/mokerhao/dm-tool-for-avalon/releases/latest" style="text-decoration:none;">
-    <div style="
-      display:inline-block;
-      padding:18px 60px;
-      font-size:22px;
-      font-weight:600;
-      border-radius:10px;
-      border:1px solid #cccccc;
-    ">
-      ⬇ Download Latest APK
-    </div>
-  </a>
+  
+## ⬇ Download Latest APK ⬇
+
+</p>
+
+<p align="center">
+https://github.com/mokerhao/dm-tool-for-avalon/releases/latest
 </p>
 
 <br/><br/>
