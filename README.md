@@ -189,7 +189,7 @@ Designed & Developed by BashanMoker
 
 ---
 
-# Support & Feedback
+# Support & Feedback 支持与反馈
 
 If you encounter a bug or have suggestions, please open an Issue:
 
