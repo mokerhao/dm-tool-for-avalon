@@ -193,20 +193,22 @@ Designed & Developed by BashanMoker
 
 If you encounter a bug or have suggestions, please open an Issue:
 
-👉 https://github.com/mokerhao/dm-tool-for-avalon/issues
-
-Public issues help improve the project faster.
-
 如果发现 Bug 或有改进建议，欢迎通过 GitHub Issue 提交：
 
 👉 https://github.com/mokerhao/dm-tool-for-avalon/issues
 
+Public issues help improve the project faster.
+
 公开 Issue 更方便跟踪与优化。
+
+
 
 <br/>
 
 For private inquiries:
 
+如需私下联系，可发送邮件：
+
 Email: bashanmoker&nbsp;[at]&nbsp;gmail&nbsp;[dot]&nbsp;com
 
-如需私下联系，可发送邮件。
+
