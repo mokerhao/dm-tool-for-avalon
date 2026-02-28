@@ -12,3 +12,36 @@ A minimalist host tool for social deduction board games like Avalon.  Auto role 
 
 ---
 
+## 📱 Screenshots 应用截图
+
+### 🏠 Main Interface 主界面
+
+<p align="center">
+  <img src="assets/Screenshot_20260228-125748.jpg" width="280"/>
+</p>
+
+---
+
+### 🎭 Auto Role Setup 自动阵容匹配
+
+<p align="center">
+  <img src="assets/Screenshot_20260228-125753.jpg" width="280"/>
+</p>
+
+---
+
+### 🔊 Voice Script 主持词语音播报
+
+<p align="center">
+  <img src="assets/Screenshot_20260228-125758.jpg" width="280"/>
+</p>
+
+---
+
+### 🎵 BGM Control 背景音乐控制
+
+<p align="center">
+  <img src="assets/Screenshot_20260228-125804.jpg" width="280"/>
+</p>
+
+---
