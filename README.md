@@ -63,10 +63,10 @@ for smooth and immersive hosting.
 ### 🎵 Immersive BGM Control  
 沉浸式背景音乐  
 
-Adjustable volume  
-and custom BGM import support.  
+Long press the music button to Adjust volume  
+and custom your BGM.
 
-支持音量调节与自定义音乐。
+长按音乐按钮支持音量调节与自定义音乐。
 
 </td>
 
