@@ -1,27 +1,28 @@
+<h1 align="center">DM Tool for Avalon</h1>
+<p align="center"><strong>适配阿瓦隆的 DM 语音工具</strong></p>
+
 <p align="center">
-  <h1>DM Tool for Avalon适配阿瓦隆的DM语音工具</h1>
-  <p>
-    Minimalist DM Hosting Assistant for Social Deduction Games
-  </p>
+Minimalist DM Hosting Assistant for Social Deduction Games
 </p>
 
 <br/>
 
 <p align="center">
-Automatically match roles and DM script based on player count.  
+Automatically match roles and DM script based on player count.<br/>
 根据参与人数自动匹配阵容与完整主持流程。
 </p>
 
-<br/>
+<br/><br/>
 
 <p align="center">
-  
-## ⬇ Download下载 ⬇
-
+<a href="https://github.com/mokerhao/dm-tool-for-avalon/releases/latest">
+  <strong><span style="font-size:22px;">⬇ Download 下载 ⬇</span></strong>
+</a>
 </p>
 
 <p align="center">
-https://github.com/mokerhao/dm-tool-for-avalon/releases/latest
+Android · Fully Offline · No Ads<br/>
+纯本地运行 · 无广告 · 不收集数据
 </p>
 
 <br/><br/>
@@ -63,8 +64,8 @@ for smooth and immersive hosting.
 ### 🎵 Immersive BGM Control  
 沉浸式背景音乐  
 
-Long press the music button to 
-Adjust volume and custom your BGM.
+Long press the music button to  
+adjust volume and customize BGM.
 
 长按音乐按钮支持音量调节与自定义音乐。
 
@@ -126,12 +127,10 @@ BGM Control 音乐控制
 
 # Voice Requirement 语音功能说明
 
-This app relies on Android Text-to-Speech (TTS).
-
+This app relies on Android Text-to-Speech (TTS).  
 Voice guidance requires a TTS engine enabled.
 
-本应用依赖 Android 系统语音合成（TTS）功能。
-
+本应用依赖 Android 系统语音合成（TTS）功能。  
 若未启用语音引擎，将无法播放主持词。
 
 <br/>
@@ -164,23 +163,26 @@ No data collection
 无广告 · 无联网 · 不收集任何信息  
 
 <br/>
+
 ---
 
 ## © Disclaimer
 
-DM Tool for Avalon is an independent fan-made project.
+DM Tool for Avalon is an independent fan-made project.  
 
-This app is not affiliated with, endorsed by, or associated with 
-Indie Boards & Cards or the creators of *The Resistance: Avalon*.
+This app is not affiliated with, endorsed by, or associated with  
+Indie Boards & Cards or the creators of *The Resistance: Avalon*.  
 
 All trademarks and game names belong to their respective owners.
 
-本项目为独立开发的粉丝工具。
+本项目为独立开发的粉丝工具。  
 
-本应用与《The Resistance: Avalon》及其版权方无任何关联或官方授权。
+本应用与《The Resistance: Avalon》及其版权方无任何关联或官方授权。  
 
 相关商标与游戏名称归其原版权所有者所有。
 
+<br/>
+
 <p align="center">
-Designed & Developed by an Independent Developer BashanMoker
+Designed & Developed by BashanMoker
 </p>
