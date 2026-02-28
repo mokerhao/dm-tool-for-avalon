@@ -166,5 +166,5 @@ No data collection
 <br/>
 
 <p align="center">
-Designed & Developed by an Independent Developer
+Designed & Developed by an Independent Developer BashanMoker
 </p>
